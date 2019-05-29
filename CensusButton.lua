@@ -29,8 +29,6 @@ local PetBat_CPWin = false;
 function CensusButton_OnLoad(self)	-- referenced by CensusButton.xml
 
 self:RegisterEvent("ADDON_LOADED")
-self:RegisterEvent("PET_BATTLE_OPENING_START")
-self:RegisterEvent("PET_BATTLE_CLOSE")
 
 end
 
