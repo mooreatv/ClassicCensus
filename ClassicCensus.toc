@@ -1,7 +1,8 @@
 ## Interface: 11302
 ## Version: 1.13.
 ## X-SubVersion: >=WBfA_pp
-## Title: CensusPlus
+## Title: ClassicCensus
+## Notes: Classic port of CensusPlus
 ## Notes: This AddOn is licenced under the GNU GPL, see GPL.txt for details.
 ## Notes: Collects and displays census information. 
 ## Original Author: Ian Pieragostini
