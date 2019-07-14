@@ -212,8 +212,8 @@ CensusPlus - by Rollie of Bloodscalp aka Cooper Sellers
     CensusPlus offers many features above and beyond what the original Census
     UI mod provided.  Here follows a list of added features:
     
-        -  Abilty to minimize the main census window
-            which provides you the abilty to actually play while a census
+        -  Ability to minimize the main census window
+            which provides you the ability to actually play while a census
             is being taken
         -  Ability for the Friends panel not to be shown after
             each /who is sent to the server.  This keeps the UI open from 
